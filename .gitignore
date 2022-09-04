@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Topics/Invoking functions/The magic of println/out/
+/Topics/Invoking functions/The magic of println/out/production/classes/
+/Topics/Standard input/Four numbers/out/
+/Topics/Standard input/Four numbers/out/production/classes/
