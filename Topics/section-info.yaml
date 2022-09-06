@@ -5,3 +5,5 @@ content:
 - The classification of basic types
 - Invoking functions
 - Standard input
+- Type conversion
+- Reading data with a readln

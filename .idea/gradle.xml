@@ -27,6 +27,10 @@
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/The Hello World program" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Fix the input" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/How to learn the whole Kotlin per one task" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading data with a readln/toDouble()" />
             <option value="$PROJECT_DIR$/Topics/Standard input/Four numbers" />
             <option value="$PROJECT_DIR$/Topics/Standard input/Printing each word in a new line" />
             <option value="$PROJECT_DIR$/Topics/Standard input/Read and print" />
@@ -42,6 +46,11 @@
             <option value="$PROJECT_DIR$/Topics/The classification of basic types/The size of Long" />
             <option value="$PROJECT_DIR$/Topics/The classification of basic types/Theory" />
             <option value="$PROJECT_DIR$/Topics/The classification of basic types/Upper possible value" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Cutting the fraction" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Existing functions" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Overflow and crash" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Where is the type overflow possible" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Swap" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Theory" />
             <option value="$PROJECT_DIR$/util" />
