@@ -2,5 +2,7 @@
 
 fun main(args: Array<String>) {
   // put your code here
-    println((10 / (2 + 2) + 4 * 8))
+    var num = 0
+    println(num++ + ++num)
+
 }
