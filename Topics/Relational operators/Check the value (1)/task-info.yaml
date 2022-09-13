@@ -1,0 +1,16 @@
+type: code
+custom_name: Check the value
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4531#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 13 Sep 2022 08:01:57 UTC
+record: -1
