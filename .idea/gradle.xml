@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -24,6 +25,7 @@
             <option value="$PROJECT_DIR$/Topics/If expression/Theory" />
             <option value="$PROJECT_DIR$/Topics/If expression/Triangle" />
             <option value="$PROJECT_DIR$/Topics/Integers in action/Reversing a number" />
+            <option value="$PROJECT_DIR$/Topics/Integers in action/The sum of digits" />
             <option value="$PROJECT_DIR$/Topics/Integers in action/Theory" />
             <option value="$PROJECT_DIR$/Topics/Integers in action/Time difference" />
             <option value="$PROJECT_DIR$/Topics/Invoking functions/Correct statements" />

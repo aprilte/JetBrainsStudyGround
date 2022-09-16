@@ -1,7 +1,7 @@
 fun main() {
-    val (a, b, c) = List(3){ readln().toInt() }
+    val (a, b, c) = List(3) { readln().toInt() }
 
-    if ( a==0 || b==0 || c==0 ){
+    if ( a == 0 || b == 0 || c == 0 ){
        return
     }
 
