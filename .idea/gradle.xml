@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$/Coffee Machine/task/build/test-results" />
             <option value="$PROJECT_DIR$/Coffee Machine/task/build/tmp" />
             <option value="$PROJECT_DIR$/Topics/Declaring functions/Comparing sums" />
+            <option value="$PROJECT_DIR$/Topics/Declaring functions/Return type" />
             <option value="$PROJECT_DIR$/Topics/Declaring functions/Right equation" />
             <option value="$PROJECT_DIR$/Topics/Declaring functions/The square of a number" />
             <option value="$PROJECT_DIR$/Topics/Declaring functions/Theory" />
@@ -41,6 +42,10 @@
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/The Hello World program" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Correct statements" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Not in range" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Ranges/Within both ranges" />
             <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Fix the input" />
             <option value="$PROJECT_DIR$/Topics/Reading data with a readln/How to learn the whole Kotlin per one task" />
             <option value="$PROJECT_DIR$/Topics/Reading data with a readln/Theory" />
@@ -81,6 +86,11 @@
             <option value="$PROJECT_DIR$/Topics/Type conversion/Where is the type overflow possible" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Swap" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Direction" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Strings as objects" />
+            <option value="$PROJECT_DIR$/Topics/When expression/The army of units" />
+            <option value="$PROJECT_DIR$/Topics/When expression/Theory" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
