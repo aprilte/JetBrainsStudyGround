@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/215428/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Sat, 17 Sep 2022 10:27:59 UTC
+update_date: Tue, 20 Sep 2022 22:18:39 UTC
 stages:
 - id: 360
   step: 5659
@@ -19,7 +19,7 @@ stages:
   is_completed: true
 - id: 364
   step: 5663
-  is_completed: false
+  is_completed: true
 - id: 365
   step: 5664
   is_completed: false
@@ -44,12 +44,12 @@ topics:
     theory_id: 17408
   - title: Data types
     theory_id: 4388
-  - title: The classification of basic types
-    theory_id: 4455
   - title: Invoking functions
     theory_id: 4575
   - title: Standard input
     theory_id: 4445
+  - title: The classification of basic types
+    theory_id: 4455
   - title: Type conversion
     theory_id: 4672
   - title: Reading data with a readln
