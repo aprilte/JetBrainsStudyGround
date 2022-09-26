@@ -10,5 +10,13 @@ files:
     \n    //implement comparing here\n    print()\n}"
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/7369#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: |-
+    <html>[+] Test #1. OK
+    [+] Test #2. OK
+    [+] Test #3. OK
+
+    3 of 3 test(s) passed.</html>
+  time: Mon, 26 Sep 2022 16:28:48 UTC
 record: -1
