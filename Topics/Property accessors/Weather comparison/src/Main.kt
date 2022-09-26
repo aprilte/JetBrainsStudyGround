@@ -31,7 +31,7 @@ fun main() {
     val min = minOf(firstCity.degrees, secondCity.degrees, thirdCity.degrees)
     val list = listOf(firstCity.degrees, secondCity.degrees, thirdCity.degrees)
     val listbyset = list.toSet().toList()
-    if ( list.size != listbyset.size) {
+    if (list.size != listbyset.size) {
         print("neither")
     } else {
         if (min == firstCity.degrees) {
